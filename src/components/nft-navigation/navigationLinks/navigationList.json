@@ -1,0 +1,18 @@
+[
+  {
+    "name": "collection",
+    "anchor": "#mainPageMenuCollectionBut"
+  },
+  {
+    "name": "preSale",
+    "anchor": "#mainPageMenuPreSaleBut"
+  },
+  {
+    "name": "roadMap",
+    "anchor": "#mainPageMenuRoadMapBut"
+  },
+  {
+    "name": "team",
+    "anchor": "#mainPageAbout"
+  }
+]

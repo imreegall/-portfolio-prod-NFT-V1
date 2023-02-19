@@ -1,0 +1,67 @@
+[
+  {
+    "name": "AntonK",
+    "img": "AntonK",
+    "post": "presidentOfTheCompany"
+  },
+  {
+    "name": "AliD",
+    "img": "AliD",
+    "post": "treasurer"
+  },
+  {
+    "name": "SvetlanaA",
+    "img": "SvetlanaA",
+    "post": "accountant"
+  },
+  {
+    "name": "VladimirK",
+    "img": "VladimirK",
+    "post": "supervisor"
+  },
+  {
+    "name": "DmitryM",
+    "img": "DmitryM",
+    "post": "backendDeveloper"
+  },
+  {
+    "name": "PolinaG",
+    "img": "PolinaG",
+    "post": "systemsAnalyst"
+  },
+  {
+    "name": "Elena",
+    "img": "Elena",
+    "post": "3dArtist"
+  },
+  {
+    "name": "AnastasiaM",
+    "img": "AnastasiaM",
+    "post": "3dArtist"
+  },
+  {
+    "name": "Alice",
+    "img": "Alice",
+    "post": "3dArtist"
+  },
+  {
+    "name": "AnastasiaK",
+    "img": "AnastasiaK",
+    "post": "webDesigner"
+  },
+  {
+    "name": "RenatG",
+    "img": "RenatG",
+    "post": "webDeveloper"
+  },
+  {
+    "name": "YuriK",
+    "img": "YuriK",
+    "post": "historian"
+  },
+  {
+    "name": "DmitryA",
+    "img": "DmitryA",
+    "post": "telegramDeveloper"
+  }
+]
